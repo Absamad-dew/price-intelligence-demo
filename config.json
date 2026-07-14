@@ -1,0 +1,11 @@
+{
+  "confidence_threshold": 0.58,
+  "catalog_file": "catalog.csv",
+  "mapping_file": "mappings/v1.json",
+  "gold_sample": "gold_matches.csv",
+  "quality_gates": {
+    "min_precision": 0.95,
+    "min_coverage": 0.9,
+    "max_review_share": 0.35
+  }
+}

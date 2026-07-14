@@ -1,0 +1,3 @@
+﻿supplier,supplier_sku,source_file,line,source_name,reason,mapping_version,import_fingerprint
+Supplier B,B-00,supplier_b.xlsx,5,Строка без цены,empty numeric value,1.0.0,83f0850f4003fb3364eb8ba3ec271796e0c721094d75dd72431e54b1dd967876
+Supplier A,A-404,supplier_a.csv,,Непонятная позиция XYZ,low confidence or unit mismatch: 0.0875,1.0.0,d258c2f707711ed59dfa972f4f9f4216bbbc3cff65fe2e7f6bc761075f8c2acc

@@ -1,0 +1,8 @@
+﻿supplier,supplier_sku,source_name,canonical_id,canonical_name,confidence,quantity_base,base_unit,total_price,price_per_base_unit,currency,source_file,status,mapping_version,import_fingerprint
+Supplier A,A-101,Болт М8 x 30 упаковка,bolt-m8x30,Болт М8x30,1.0,100.0,pc,1200.0,12.0,RUB,supplier_a.csv,matched,1.0.0,d258c2f707711ed59dfa972f4f9f4216bbbc3cff65fe2e7f6bc761075f8c2acc
+Supplier A,A-202,Смазка литиевая 0.4 кг,lithium-grease,Смазка литиевая,0.9588,0.4,kg,520.0,1300.0,RUB,supplier_a.csv,matched,1.0.0,d258c2f707711ed59dfa972f4f9f4216bbbc3cff65fe2e7f6bc761075f8c2acc
+Supplier A,A-303,Кабель ВВГнг 3x2.5 бухта 100 м,cable-vvg-3x2.5,Кабель ВВГнг 3x2.5,0.95,100.0,m,8500.0,85.0,RUB,supplier_a.csv,matched,1.0.0,d258c2f707711ed59dfa972f4f9f4216bbbc3cff65fe2e7f6bc761075f8c2acc
+Supplier A,A-404,Непонятная позиция XYZ,bolt-m8x30,Болт М8x30,0.0875,1.0,pc,999.0,999.0,RUB,supplier_a.csv,review,1.0.0,d258c2f707711ed59dfa972f4f9f4216bbbc3cff65fe2e7f6bc761075f8c2acc
+Supplier B,B-77,Болт М8×30 пачка 50,bolt-m8x30,Болт М8x30,0.9543,50.0,pc,560.0,11.2,RUB,supplier_b.xlsx,matched,1.0.0,83f0850f4003fb3364eb8ba3ec271796e0c721094d75dd72431e54b1dd967876
+Supplier B,B-21,Литиевая смазка 400 г,lithium-grease,Смазка литиевая,0.8147,0.4,kg,480.0,1200.0,RUB,supplier_b.xlsx,matched,1.0.0,83f0850f4003fb3364eb8ba3ec271796e0c721094d75dd72431e54b1dd967876
+Supplier B,B-09,"Кабель ВВГнг 3*2,5 100 метров",cable-vvg-3x2.5,Кабель ВВГнг 3x2.5,0.965,100.0,m,8200.0,82.0,RUB,supplier_b.xlsx,matched,1.0.0,83f0850f4003fb3364eb8ba3ec271796e0c721094d75dd72431e54b1dd967876

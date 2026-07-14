@@ -1,0 +1,18 @@
+{
+  "gold_rows": 8,
+  "matchable_gold_rows": 6,
+  "auto_matched_rows": 6,
+  "correct_auto_matches": 6,
+  "false_auto_matches": 0,
+  "reviewed_or_rejected_rows": 2,
+  "missing_predictions": 0,
+  "precision": 1.0,
+  "coverage": 1.0,
+  "review_share": 0.25,
+  "quality_pass": true,
+  "gates": {
+    "min_precision": 0.95,
+    "min_coverage": 0.9,
+    "max_review_share": 0.35
+  }
+}

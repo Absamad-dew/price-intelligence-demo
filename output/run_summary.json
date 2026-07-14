@@ -1,0 +1,12 @@
+{
+  "input_rows": 8,
+  "normalized_offers": 7,
+  "matched_offers": 6,
+  "best_prices": 3,
+  "review_items": 2,
+  "imported_files": 2,
+  "unchanged_imports": 2,
+  "mapping_version": "1.0.0",
+  "quality_pass": true,
+  "confidence_threshold": 0.58
+}

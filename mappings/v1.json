@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "mapping_version": "1.0.0",
+  "suppliers": {
+    "supplier_a.csv": {
+      "supplier": "Supplier A",
+      "columns": {
+        "sku": "sku",
+        "name": "product",
+        "quantity": "pack_qty",
+        "unit": "unit",
+        "price": "price",
+        "currency": "currency"
+      }
+    },
+    "supplier_b.xlsx": {
+      "supplier": "Supplier B",
+      "sheet": "Offers",
+      "columns": {
+        "sku": "vendor_code",
+        "name": "title",
+        "quantity": "quantity",
+        "unit": "uom",
+        "price": "total_price",
+        "currency": "currency"
+      }
+    }
+  }
+}

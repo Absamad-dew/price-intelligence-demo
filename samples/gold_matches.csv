@@ -1,0 +1,9 @@
+supplier,supplier_sku,expected_canonical_id,expected_outcome
+Supplier A,A-101,bolt-m8x30,matched
+Supplier A,A-202,lithium-grease,matched
+Supplier A,A-303,cable-vvg-3x2.5,matched
+Supplier A,A-404,,review
+Supplier B,B-77,bolt-m8x30,matched
+Supplier B,B-21,lithium-grease,matched
+Supplier B,B-09,cable-vvg-3x2.5,matched
+Supplier B,B-00,,review

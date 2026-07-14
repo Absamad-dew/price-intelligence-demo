@@ -1,0 +1,25 @@
+{
+  "mapping_version": "1.0.0",
+  "imports": [
+    {
+      "source_file": "supplier_a.csv",
+      "supplier": "Supplier A",
+      "mapping_version": "1.0.0",
+      "import_id": "sha256:d258c2f707711ed59dfa972f4f9f4216bbbc3cff65fe2e7f6bc761075f8c2acc",
+      "import_fingerprint": "d258c2f707711ed59dfa972f4f9f4216bbbc3cff65fe2e7f6bc761075f8c2acc",
+      "input_rows": 4,
+      "normalized_rows": 4,
+      "rejected_rows": 0
+    },
+    {
+      "source_file": "supplier_b.xlsx",
+      "supplier": "Supplier B",
+      "mapping_version": "1.0.0",
+      "import_id": "sha256:83f0850f4003fb3364eb8ba3ec271796e0c721094d75dd72431e54b1dd967876",
+      "import_fingerprint": "83f0850f4003fb3364eb8ba3ec271796e0c721094d75dd72431e54b1dd967876",
+      "input_rows": 4,
+      "normalized_rows": 3,
+      "rejected_rows": 1
+    }
+  ]
+}
