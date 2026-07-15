@@ -9,6 +9,10 @@
 
 **Runnable proof на версионных демо-данных:** [system analysis case](docs/system-analysis-case.md) · [best-price CSV](output/best_prices.csv) · [review queue](output/review_queue.csv) · [quality metrics](output/quality_metrics.json) · [Excel-отчёт](output/price_intelligence.xlsx) · [release v0.1.1](https://github.com/Absamad-dew/price-intelligence-demo/releases/tag/v0.1.1). Это не заявление о production-качестве.
 
+![Synthetic supplier reconciliation proof: n=8, selected prices and manual review queue](docs/price-demo-preview.png)
+
+*Визуальный снимок построен из опубликованного XLSX. Это synthetic proof на 8 строках, из которых 6 matchable; raw evidence находится в [`output`](output).*
+
 ## Быстрый запуск
 
 Требуется Python 3.10+.
