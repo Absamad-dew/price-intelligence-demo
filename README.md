@@ -3,7 +3,7 @@
 [![Tests](https://github.com/Absamad-dew/price-intelligence-demo/actions/workflows/tests.yml/badge.svg)](https://github.com/Absamad-dew/price-intelligence-demo/actions/workflows/tests.yml)
 [![Release](https://img.shields.io/github/v/release/Absamad-dew/price-intelligence-demo)](https://github.com/Absamad-dew/price-intelligence-demo/releases/tag/v0.1.1)
 
-Воспроизводимый прототип под [живой заказ FL.ru](https://www.fl.ru/projects/5510010/razrabotka-bazyi-dannyih-i-sistemyi-sravneniya-praysov-postavschikov-python-ai.html): разные прайсы поставщиков приводятся к единому каталогу, пересчитываются к базовой единице, сравниваются по цене и сохраняются с полным audit trail.
+Воспроизводимый самостоятельный прототип по [публичному ТЗ FL.ru](https://www.fl.ru/projects/5510010/razrabotka-bazyi-dannyih-i-sistemyi-sravneniya-praysov-postavschikov-python-ai.html): разные прайсы поставщиков приводятся к единому каталогу, пересчитываются к базовой единице, сравниваются по цене и сохраняются с полным audit trail. Заказчик FL.ru не заказывал эту работу; это не оплаченный клиентский кейс.
 
 В демо нет внешнего API и обязательных Python-зависимостей. CSV и плоские XLSX читаются и записываются стандартной библиотекой Python.
 
