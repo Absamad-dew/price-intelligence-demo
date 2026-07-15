@@ -7,7 +7,7 @@
 
 В демо нет внешнего API и обязательных Python-зависимостей. CSV и плоские XLSX читаются и записываются стандартной библиотекой Python.
 
-**Runnable proof на версионных демо-данных:** [best-price CSV](output/best_prices.csv) · [review queue](output/review_queue.csv) · [quality metrics](output/quality_metrics.json) · [Excel-отчёт](output/price_intelligence.xlsx) · [release v0.1.1](https://github.com/Absamad-dew/price-intelligence-demo/releases/tag/v0.1.1). Это не заявление о production-качестве.
+**Runnable proof на версионных демо-данных:** [system analysis case](docs/system-analysis-case.md) · [best-price CSV](output/best_prices.csv) · [review queue](output/review_queue.csv) · [quality metrics](output/quality_metrics.json) · [Excel-отчёт](output/price_intelligence.xlsx) · [release v0.1.1](https://github.com/Absamad-dew/price-intelligence-demo/releases/tag/v0.1.1). Это не заявление о production-качестве.
 
 ## Быстрый запуск
 
